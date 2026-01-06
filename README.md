@@ -1,0 +1,1 @@
+# aws-eks-microservices-platform-slice
