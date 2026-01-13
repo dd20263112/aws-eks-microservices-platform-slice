@@ -11,4 +11,15 @@ npm-debug.log*
 #node modules
 node_modules/
 .aws-sam/ 
-*.lo
+
+#VS code
+.vscode/
+
+#build outputs
+dist/
+build/
+coverage/
+
+#K8 tooling
+.kube/ 
+kubeconfig*
